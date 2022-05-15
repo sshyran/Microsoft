@@ -6,9 +6,15 @@ All things Microsoft
 https://github.com/sshyran/fluentui
 ### Microsoft FAST UI
 https://github.com/sshyran/microsoft-fast-ui
+https://aurelia.io/home
 
 ## AI, ML, DL
-Microsoft InnerEYE - Medical Imaging Deep Learning library
+### Microsoft InnerEYE - Medical Imaging Deep Learning library
+https://github.com/sshyran/InnerEye-DeepLearning
+
+https://github.com/sshyran/finnts
+
+
 
 
 ## Collaboration, Dev Env, VM
