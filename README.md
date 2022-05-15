@@ -1,6 +1,12 @@
 # Microsoft
 All things Microsoft
 
+## Shell, System
+### New Windows Terminal
+https://github.com/shyran/terminal
+
+
+
 ## UI
 ### Microsoft FluentUI
 https://github.com/sshyran/fluentui
@@ -22,9 +28,8 @@ https://github.com/sshyran/finnts
 https://github.com/sshyran/TeamCloud
 ### Microsoft AzureTRE
 https://github.com/sshyran/AzureTRE
-
-
-
+### GitHub Actions virtual environments
+https://github.com/sshyran/virtual-environments
 
 
 
