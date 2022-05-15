@@ -10,7 +10,8 @@ https://github.com/sshyran/fluentui
 ## Collaboration, Dev Env, VM
 ### Microsoft TeamCloud
 https://github.com/sshyran/TeamCloud
-
+### Microsoft AzureTRE
+https://github.com/sshyran/AzureTRE
 
 
 
